@@ -36,7 +36,7 @@ var ezMQ = {
 	  'title'		: "", 
 	  'idea'		: '<img src="img/cover.jpg">',
 	  'quotes'		: false,
-	  'select'		: 'Cover: "Your Brain At Work" - David Rock',
+	  'select'		: 'Cover: "Focus" - Daniel Goleman',
 	  'who'			: '',
 	  'note'		: '',
 	  'caption'		: setupCaption
