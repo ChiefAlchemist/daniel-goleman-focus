@@ -21,6 +21,54 @@ var ezMQ = {
   "ezobj":[
   
     {
+	  'index'		: 8,
+	  'title'		: '',
+	  'idea_size'	: '135',
+	  'idea'		: "Full focus gives us a potential doorway into flow. But when we choose to focus on one thing and ignore the rest, we surface a constant tension&mdash;usually invisible&mdash;between a great neural divide, where the top of the brain tussles with the bottom.",
+	  'quotes'		: true,
+	  'select'		: 'Doorway into flow',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 2',
+	  'caption'		: setupCaption
+    },   
+  
+    {
+	  'index'		: 7,
+	  'title'		: '',
+	  'idea_size'	: '150',
+	  'idea'		: "Deep thinking demands sustaining a focused mind. The more distracted we are, the more shallow our reflections; likewise, the shorter our reflections, the more trivial they are likely to be.",
+	  'quotes'		: true,
+	  'select'		: 'Deep thinking demands',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 2',
+	  'caption'		: setupCaption
+    },   
+
+    {
+	  'index'		: 6,
+	  'title'		: '',
+	  'idea_size'	: '120',
+	  'idea'		: "The ability to stay steady on one target and ignore everything else operates in the brain's prefrontal regions...That means those who focus best are relatively immune to emotional turbulence...The power to disengage our attention from one thing and move it to another is essential for well-being.",
+	  'quotes'		: true,
+	  'select'		: 'Emotional turbulence',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 2',
+	  'caption'		: setupCaption
+    }, 
+    
+    {
+	  'index'		: 5,
+	  'title'		: '',
+	  'idea_size'	: '135',
+	  'idea'		: "The more our focus gets disrupted, the worse we do. For instance, a test of how much college athletes are prone to having their concentration disrupted by anxiety correlates significantly with how well or poorly they will perform in the upcoming season.",
+	  'quotes'		: true,
+	  'select'		: 'The worse we do',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 2',
+	  'caption'		: setupCaption
+    }, 
+  
+    {
 	  'index'		: 4,
 	  'title'		: '',
 	  'idea_size'	: '185',
