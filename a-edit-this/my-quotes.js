@@ -21,6 +21,78 @@ var ezMQ = {
   "ezobj":[
   
     {
+	  'index'		: 14,
+	  'title'		: '',
+	  'idea_size'	: '125',
+	  'idea'		: "So while emotions can drive our attention, with active effort we can also manage emotions top-down. Then the prefrontal areas take charge of the amygdala, tuning down its potency. An angry face, or even that cute baby, can fail to capture our attention when the circuits for top-down control of attention take over the brain's choices of what to ignore.",
+	  'quotes'		: true,
+	  'select'		: 'Manage emotions top-down',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 3',
+	  'caption'		: setupCaption
+    }, 
+ 
+    {
+	  'index'		: 13,
+	  'title'		: '',
+	  'idea_size'	: '165',
+	  'idea'		: "We are wired to pay reflexive attention to 'super-normal stimuli,' whether for safety, nutrition, or sex&mdash;like a cat that can't help chasing a fake mouse on a string.",
+	  'quotes'		: true,
+	  'select'		: 'Super-normal stimuli',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 3',
+	  'caption'		: setupCaption
+    }, 
+	
+    {
+	  'index'		: 12,
+	  'title'		: '',
+	  'idea_size'	: '115',
+	  'idea'		: "Overloading attention shrinks mental control...Life immersed in digital distractions creates a near-constant cognitive overload. And that overload wears out self-control.<br><br>Forget that resolve to diet. Lost in the digital world we mindlessly reach for the Pringles.",
+	  'quotes'		: true,
+	  'select'		: 'The Pringles',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 3',
+	  'caption'		: setupCaption
+    },    
+  
+    {
+	  'index'		: 11,
+	  'title'		: '',
+	  'idea_size'	: '155',
+	  'idea'		: "When the coach reviews plays from a game and only focuses on what not to do next time, it's a recipe for players to choke.",
+	  'quotes'		: true,
+	  'select'		: 'Recipe for players to choke',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 3',
+	  'caption'		: setupCaption
+    },  
+ 
+    {
+	  'index'		: 10,
+	  'title'		: '',
+	  'idea_size'	: '115',
+	  'idea'		: "As world-class champions attest, at the topmost levels, where your opponents have practiced about as many thousands of hours as you have, any competition becomes a mental game: your mind state determines how well you can focus, and so how well you can do. The more you can relax and trust in bottom-up moves, the more you free your mind to be nimble.",
+	  'quotes'		: true,
+	  'select'		: 'World-class champions',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 3',
+	  'caption'		: setupCaption
+    },
+	
+    {
+	  'index'		: 9,
+	  'title'		: '',
+	  'idea_size'	: '135',
+	  'idea'		: "The human brain counts among evolution's good-enough, but not perfect, designs. The brain's more ancient bottom-up systems apparently worked well for basic survival during most of human prehistory&mdash;but their design makes for some troubles today.",
+	  'quotes'		: true,
+	  'select'		: 'Good-enough, but not perfect',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 3',
+	  'caption'		: setupCaption
+    },     
+  
+    {
 	  'index'		: 8,
 	  'title'		: '',
 	  'idea_size'	: '135',
