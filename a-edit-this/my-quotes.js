@@ -20,6 +20,54 @@
 var ezMQ = {
   "ezobj":[
   
+     {
+	  'index'		: 18,
+	  'title'		: '',
+	  'idea_size'	: '115',
+	  'idea'		: "Good days for insights had nothing to do with stunning breakthroughs or grand victories. The key turned out to be having small wins&mdash;minor innovations and troubling problems solved&mdash;on concrete steps toward a larger goal. Creative insights flowed best when people had clear goals but also freedom in how they reached them. And, most crucial, they had protected time&mdash;enough to really think freely. A creative cocoon.",
+	  'quotes'		: true,
+	  'select'		: 'A creative cocoon',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 4',
+	  'caption'		: setupCaption
+    },   
+  
+     {
+	  'index'		: 17,
+	  'title'		: '',
+	  'idea_size'	: '155',
+	  'idea'		: "In the tumult of our daily distractions and to-do lists, innovation dead-ends; in open times it flourishes...<br><br>Open time lets the creative spirit flourish; tight schedules kill it.",
+	  'quotes'		: true,
+	  'select'		: 'Open time',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 4',
+	  'caption'		: setupCaption
+    }, 
+  
+    {
+	  'index'		: 16,
+	  'title'		: '',
+	  'idea_size'	: '125',
+	  'idea'		: "In a complex world where almost everyone has access to the same information, new value arises from the original synthesis, from putting ideas together in novel ways, and from smart questions that open up untapped potential. Creative insights entail joining elements in a useful, fresh way.",
+	  'quotes'		: true,
+	  'select'		: 'New value arises',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 4',
+	  'caption'		: setupCaption
+    },    
+  
+    {
+	  'index'		: 15,
+	  'title'		: '',
+	  'idea_size'	: '130',
+	  'idea'		: "By contrast, a scientist too determined to confirm his hypothesis risks ignoring findings that don't fit his expectations&mdash;dismissing them as noise or error, not a doorway to new discoveries&mdash;and so misses what might become more fruitful theories.",
+	  'quotes'		: true,
+	  'select'		: 'A scientist',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 4',
+	  'caption'		: setupCaption
+    },  
+  
     {
 	  'index'		: 14,
 	  'title'		: '',
