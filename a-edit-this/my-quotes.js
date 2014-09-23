@@ -20,6 +20,66 @@
 var ezMQ = {
   "ezobj":[
   
+      {
+	  'index'		: 23,
+	  'title'		: '',
+	  'idea_size'	: '125',
+	  'idea'		: "Tightly focused attention gets fatigued&mdash;much like an overworked muscle&mdash;when we push to the point of cognitive exhaustion...<br><br>But what rests a mental muscle?<br><br>Surfing the Web, playing video games, or answering email does not.",
+	  'quotes'		: true,
+	  'select'		: 'What rests a mental muscle',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 5',
+	  'caption'		: setupCaption
+    },
+  
+      {
+	  'index'		: 22,
+	  'title'		: '',
+	  'idea_size'	: '135',
+	  'idea'		: "Those who have difficulty sustaining open awareness typically get caught up by irritating details...But there are no emotional hijacks in open awareness&mdash;just the richness of the moment.",
+	  'quotes'		: true,
+	  'select'		: 'The richness of the moment',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 5',
+	  'caption'		: setupCaption
+    }, 
+  
+      {
+	  'index'		: 21,
+	  'title'		: '',
+	  'idea_size'	: '170',
+	  'idea'		: "The more our mind wanders, the less we can register what's going on right now, right here.",
+	  'quotes'		: true,
+	  'select'		: 'Right now, right here',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 5',
+	  'caption'		: setupCaption
+    }, 
+  
+     {
+	  'index'		: 20,
+	  'title'		: '',
+	  'idea_size'	: '135',
+	  'idea'		: "It's not the chatter of people around us that is the most powerful distractor, but rather the chatter of our own minds. Utter concentration demands these inner voices to be stilled.",
+	  'quotes'		: true,
+	  'select'		: 'The chatter of our own minds',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 5',
+	  'caption'		: setupCaption
+    }, 
+  
+     {
+	  'index'		: 19,
+	  'title'		: '',
+	  'idea_size'	: '140',
+	  'idea'		: "On average, people's moods were generally skewed to the unpleasant while their minds wandered...Mind wandering itself seemed to be a cause of unhappiness some or much of the time.",
+	  'quotes'		: true,
+	  'select'		: 'Mind wandering',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 5',
+	  'caption'		: setupCaption
+    }, 
+	
      {
 	  'index'		: 18,
 	  'title'		: '',
