@@ -21,6 +21,56 @@ var ezMQ = {
   "ezobj":[
   
       {
+	  'index'		: 27,
+	  'title'		: '',
+	  'idea_size'	: '145',
+	  'idea'		: "And how do the performers know when they're nearing perfection? &ldquo;It's the feeling. You know it in your joints before you know it in your head.&rdquo;",
+	  'quotes'		: true,
+	  'select'		: 'Nearing perfection',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 6',
+	  'caption'		: setupCaption
+    },
+	
+      {
+	  'index'		: 26,
+	  'title'		: '',
+	  'idea_size'	: '130',
+	  'idea'		: "Somatic marker is neuroscientist Antonio Damasio's term for the sensation in our body that tell us when a choice feels wrong or right.",
+	  'quotes'		: true,
+	  'select'		: 'Somatic marker',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 6',
+	  'caption'		: setupCaption
+    },
+  
+      {
+	  'index'		: 25,
+	  'title'		: '',
+	  'idea_size'	: '135',
+	  'idea'		: "Our &ldquo;gut feelings&rdquo; are messages from the insula and other bottom-up circuits that simplify life decisions for us by guiding our attention twoward smarter options. The better we are at reading those messages, the better our intuition.",
+	  'quotes'		: true,
+	  'select'		: 'Gut feelings',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 6',
+	  'caption'		: setupCaption
+    },
+	
+  
+      {
+	  'index'		: 24,
+	  'title'		: '',
+	  'idea_size'	: '120',
+	  'idea'		: "Self-awareness, then, represents an essential focus, one that attunes us to the subtle murmurs within that can help guide our way through life. And, as we shall see, this inner rader holds the key to managing what we do&mdash;and just as important, what we don't do. This internal control mechanism makes all the difference between a life well lived and one that falters.",
+	  'quotes'		: true,
+	  'select'		: 'The subtle murmurs within',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 6',
+	  'caption'		: setupCaption
+    },
+	
+  
+      {
 	  'index'		: 23,
 	  'title'		: '',
 	  'idea_size'	: '125',
