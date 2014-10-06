@@ -20,6 +20,65 @@
 var ezMQ = {
   "ezobj":[
   
+        {
+	  'index'		: 32,
+	  'title'		: '',
+	  'idea_size'	: '145',
+	  'idea'		: "&ldquo;Sunlight,&rdquo; as Supreme Court justice Felix Frankfurter once said, &ldquo;is the best disinfectant.&rdquo;",
+	  'quotes'		: true,
+	  'select'		: 'Sunlight',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 7',
+	  'caption'		: setupCaption
+    },    
+        {
+	  'index'		: 31,
+	  'title'		: '',
+	  'idea_size'	: '140',
+	  'idea'		: "Smart risks are based on wide and voracious data-gathering checked against a gut sense; dumb decisions are built from too narrow a base of inputs.",
+	  'quotes'		: true,
+	  'select'		: 'Smart risks vs Dumb Decisions',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 7',
+	  'caption'		: setupCaption
+    },   
+  
+        {
+	  'index'		: 30,
+	  'title'		: '',
+	  'idea_size'	: '149',
+	  'idea'		: "Clarity begins with realizing what we do not notice&mdash;and don't notice what we don't notice.",
+	  'quotes'		: true,
+	  'select'		: 'Clarity begins',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 7',
+	  'caption'		: setupCaption
+    },   
+  
+        {
+	  'index'		: 29,
+	  'title'		: '',
+	  'idea_size'	: '144',
+	  'idea'		: "When information flows most freely among the group and into it, the best decisions will be made. But groupthink begins with the unstated assumption: We know everything we need to.",
+	  'quotes'		: true,
+	  'select'		: 'But groupthink begins',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 7',
+	  'caption'		: setupCaption
+    }, 
+  
+      {
+	  'index'		: 28,
+	  'title'		: '',
+	  'idea_size'	: '120',
+	  'idea'		: "The gap between how you see yourself and how the others rate you offers one of the best evaluations you can get anywhere of your own self-awareness.<br><br>There's an intriguing relationship between self-awareness and power...The higher someone's position in an organization, the bigger the gap.",
+	  'quotes'		: true,
+	  'select'		: 'Self-awareness',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 7',
+	  'caption'		: setupCaption
+    },  
+  
       {
 	  'index'		: 27,
 	  'title'		: '',
