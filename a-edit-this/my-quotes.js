@@ -21,6 +21,78 @@ var ezMQ = {
   "ezobj":[
   
         {
+	  'index'		: 38,
+	  'title'		: '',
+	  'idea_size'	: '125',
+	  'idea'		: "It's not just four-year-olds and teens. The chronic cognitive overload that typifies life for so many of us seems to lower our threshold for self-control. The greater the demands on our attention, it seems, the poorer we get at resisting temptations.",
+	  'quotes'		: true,
+	  'select'		: 'Chronic cognitive overload',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 8',
+	  'caption'		: setupCaption
+    },  
+  
+        {
+	  'index'		: 37,
+	  'title'		: '',
+	  'idea_size'	: '125',
+	  'idea'		: "Attention, cognitive science tells us, has limited capacity: working memory creates a bottleneck that lets us hold just so much in mind at any given moment. As our worries intrude on the limited capacity of our attention, these irrelevant thoughts shrink the bandwidth left for, say, math.",
+	  'quotes'		: true,
+	  'select'		: 'Our worries intrude',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 8',
+	  'caption'		: setupCaption
+    },    
+  
+        {
+	  'index'		: 36,
+	  'title'		: '',
+	  'idea_size'	: '132',
+	  'idea'		: "Another bottom line: Anything we can do to increase children's capacity for cognitive control will help them throughout life. Even Cookie Monster can learn to do better.",
+	  'quotes'		: true,
+	  'select'		: 'Another bottom line',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 8',
+	  'caption'		: setupCaption
+    },  
+
+        {
+	  'index'		: 35,
+	  'title'		: '',
+	  'idea_size'	: '125',
+	  'idea'		: "Willpower is destiny.<br><br>Bottom line: kids can have the most economically privileged childhood, yet if they don't master how to delay gratification in pursuit of their goals those early advantages may wash out in the course of life.",
+	  'quotes'		: true,
+	  'select'		: 'Willpower is destiny',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 8',
+	  'caption'		: setupCaption
+    },
+	
+        {
+	  'index'		: 34,
+	  'title'		: '',
+	  'idea_size'	: '145',
+	  'idea'		: "How much of our talent for attention comes from our genes? It depends. Different attention systems, it turns out, have different degrees of heritability.",
+	  'quotes'		: true,
+	  'select'		: 'Heritability',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 8',
+	  'caption'		: setupCaption
+    },   
+  
+        {
+	  'index'		: 33,
+	  'title'		: '',
+	  'idea_size'	: '127',
+	  'idea'		: "Our mind deploys self-awareness to keep everything we do on track: meta-cognition&mdash;thinking about thinking&mdash;lets us know how our mental operations are going and adjust them as needed; meta-emotion does the same with regulating the flow of feeling and impulse.",
+	  'quotes'		: true,
+	  'select'		: 'Thinking about thinking',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 8',
+	  'caption'		: setupCaption
+    },   
+    
+        {
 	  'index'		: 32,
 	  'title'		: '',
 	  'idea_size'	: '145',
