@@ -21,6 +21,102 @@ var ezMQ = {
   "ezobj":[
   
         {
+	  'index'		: 46,
+	  'title'		: '',
+	  'idea_size'	: '130',
+	  'idea'		: "Moral sentiments derive from empathy, and moral reflections take thinking and focus. One cost of the frenetic stream of distractions we face today, some fear, is an erosion of empathy and compassion. The more distracted we are, the less we can exhibit attunement and caring.",
+	  'quotes'		: true,
+	  'select'		: 'Stream of distractions',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 10',
+	  'caption'		: setupCaption
+    },   
+  
+        {
+	  'index'		: 45,
+	  'title'		: '',
+	  'idea_size'	: '122',
+	  'idea'		: "Martin Luther King Jr. observed that those who fail to offer their aid asked themselves the question: &ldquo;If I stop to help this man, what will happen to me?&rdquo;<br><br>But the Good Samaritan reversed the question: &ldquo;If I do not stop to help this man what will happen to him?&rdquo;",
+	  'quotes'		: true,
+	  'select'		: 'The Good Samaritan',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 10',
+	  'caption'		: setupCaption
+    },   
+  
+        {
+	  'index'		: 44,
+	  'title'		: '',
+	  'idea_size'	: '135',
+	  'idea'		: "Empathy builds on our capacity for sensing visceral feelings within our own body.<br><br>Empathy entails an act of self-awareness: we read other people by tuning in to ourselves.",
+	  'quotes'		: true,
+	  'select'		: 'Empathy',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 10',
+	  'caption'		: setupCaption
+    },  
+  
+        {
+	  'index'		: 43,
+	  'title'		: '',
+	  'idea_size'	: '125',
+	  'idea'		: "&ldquo;Theory of mind,&rdquo; the understanding that other people have their own feelings, desires, and motives, lets us reason about what someone else might be thinking and wanting. Such cognitive empathy shares circuitry with executive attention; it first blooms around the years between two and five and continues to develop right through the teen years.",
+	  'quotes'		: true,
+	  'select'		: 'Theory of mind',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 10',
+	  'caption'		: setupCaption
+    },   
+  
+        {
+	  'index'		: 42,
+	  'title'		: '',
+	  'idea_size'	: '125',
+	  'idea'		: "But coming to such consensus in an online text-based discussion requires flying blind, without relying on the continuous cascade of nonverbal messages that in a real meeting let someone announce aloud the as-yet-unspoken agreement.",
+	  'quotes'		: true,
+	  'select'		: 'Online text-based discussion',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 10',
+	  'caption'		: setupCaption
+    },   
+  
+        {
+	  'index'		: 41,
+	  'title'		: '',
+	  'idea_size'	: '145',
+	  'idea'		: "Such readings of meta-messages in nonverbal channels occur to us instantly, unconsciously, and automatically.",
+	  'quotes'		: true,
+	  'select'		: 'Meta-messages',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 9',
+	  'caption'		: setupCaption
+    },  
+  
+        {
+	  'index'		: 40,
+	  'title'		: '',
+	  'idea_size'	: '135',
+	  'idea'		: "Gestures always occur just before the most emphasized part of that you're saying...<br><br>The timing of the gesture interprets its meaning. If your timing is off, a postive statement can have negative impact.",
+	  'quotes'		: true,
+	  'select'		: 'Gestures',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 9',
+	  'caption'		: setupCaption
+    },
+  
+        {
+	  'index'		: 39,
+	  'title'		: '',
+	  'idea_size'	: '165',
+	  'idea'		: "A trained eye for the subtle cue offers advantages in many life arenas.",
+	  'quotes'		: true,
+	  'select'		: 'A trained eye',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 9',
+	  'caption'		: setupCaption
+    },    
+  
+        {
 	  'index'		: 38,
 	  'title'		: '',
 	  'idea_size'	: '125',
