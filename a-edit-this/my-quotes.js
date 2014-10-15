@@ -21,6 +21,66 @@ var ezMQ = {
   "ezobj":[
   
         {
+	  'index'		: 51,
+	  'title'		: '',
+	  'idea_size'	: '125',
+	  'idea'		: "Where we see ourselves on the social ladder seems to determine how much attention we pay: more vigilant when we feel subordinate, less so when superior. The corollary: The more you care about someone, the more attention you pay&mdash;and the more attention you pay, the more your care. Attention interweaves with love.",
+	  'quotes'		: true,
+	  'select'		: 'Attention interweaves with love',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 11',
+	  'caption'		: setupCaption
+    },   
+  
+        {
+	  'index'		: 50,
+	  'title'		: '',
+	  'idea_size'	: '120',
+	  'idea'		: "In contrast, people of lower social status tend to do better on tests of empathic accuracy, such as reading others' emotions from their faces&mdash;even just from muscle movements around the eyes. By every measure they focus on other people more than do people of higher status.",
+	  'quotes'		: true,
+	  'select'		: 'Empathic accuracy',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 11',
+	  'caption'		: setupCaption
+    },   
+  
+        {
+	  'index'		: 49,
+	  'title'		: '',
+	  'idea_size'	: '125',
+	  'idea'		: "The wealthy, on the other hand, can hire help&mdash;pay for a day care center or even an au pair. This means, (Dacher) Keltner argues, that rich people can afford to be less aware of the needs of other people, and so can be less attentive to them and their suffering.",
+	  'quotes'		: true,
+	  'select'		: 'Rich people',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 11',
+	  'caption'		: setupCaption
+    },  
+  
+        {
+	  'index'		: 48,
+	  'title'		: '',
+	  'idea_size'	: '135',
+	  'idea'		: "The cross-cultural talent for social sensitivity appears related to cognitive empathy...<br><br>Attention to context lets us pick up subtle social cues that can guide how we behave.",
+	  'quotes'		: true,
+	  'select'		: 'Attention to context',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 11',
+	  'caption'		: setupCaption
+    },   
+  
+        {
+	  'index'		: 47,
+	  'title'		: '',
+	  'idea_size'	: '125',
+	  'idea'		: "Social dyslexia. Its opposite, social intuition.<br><br>This steady stream of nonverbal exchanges rushes to and from everyone we interact with, whether in a routine hello or a tense negotiation, transmitting messages received every bit as powerfully as whatever we might be saying. Perhaps more powerfully.",
+	  'quotes'		: true,
+	  'select'		: 'Social dyslexia',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 11',
+	  'caption'		: setupCaption
+    },   
+  
+        {
 	  'index'		: 46,
 	  'title'		: '',
 	  'idea_size'	: '130',
