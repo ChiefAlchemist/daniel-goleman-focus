@@ -20,6 +20,66 @@
 var ezMQ = {
   "ezobj":[
   
+                {
+	  'index'		: 56,
+	  'title'		: '',
+	  'idea_size'	: '115',
+	  'idea'		: "At that same (MIT) conference, Rachael Schutt, a senior statistician at Google Research, observed that data science requires more than math skills: it also takes people who have a wide-ranging curiosity, and whose innovation is guided by their own experience&mdash;not just data. After all, the best intuition takes huge amounts of data, harvesting, our entire life experience, and filters it through the human brain.",
+	  'quotes'		: true,
+	  'select'		: "More than math skills",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 12',
+	  'caption'		: setupCaption
+    },
+  
+              {
+	  'index'		: 55,
+	  'title'		: '',
+	  'idea_size'	: '115',
+	  'idea'		: "The best curators don't just put the data in a meaningful context&mdash;they know what questions to ask. When I interviewed (Thomas) Davenport, he was writing a book that encourages those who manage big data projects to ask questions like these: Are we defining the right problem? Do we have the right data? What are the assumptions behind the algorithm that data gets fed into? Does the model guiding those assumtions map on reality?",
+	  'quotes'		: true,
+	  'select'		: "The best curators",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 12',
+	  'caption'		: setupCaption
+    },
+  
+            {
+	  'index'		: 54,
+	  'title'		: '',
+	  'idea_size'	: '125',
+	  'idea'		: "What makes data more useful is the person curating it. Ideally, the person who curates information will zero in on what matters, prune away the rest, establish context for what the data means, and do all that in a way that shows why it is vital&mdash;and so captures people's attention.",
+	  'quotes'		: true,
+	  'select'		: "Captures people's attention",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 12',
+	  'caption'		: setupCaption
+    },
+  
+          {
+	  'index'		: 53,
+	  'title'		: '',
+	  'idea_size'	: '135',
+	  'idea'		: "A &ldquo;system&rdquo; boils down to a cohesive set of lawful, regular patterns.",
+	  'quotes'		: true,
+	  'select'		: 'A system',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 12',
+	  'caption'		: setupCaption
+    },
+  
+        {
+	  'index'		: 52,
+	  'title'		: '',
+	  'idea_size'	: '125',
+	  'idea'		: "An epidemic exemplifies system dynamics. The more you can think systemically, the more you can follow the path of coins, art, religion, or disease. Understanding how coins travel along trade routes parallels analyzing the spread of a virus.",
+	  'quotes'		: true,
+	  'select'		: 'Think systemically',
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 12',
+	  'caption'		: setupCaption
+    },   
+  
         {
 	  'index'		: 51,
 	  'title'		: '',
