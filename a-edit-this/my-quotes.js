@@ -20,6 +20,159 @@
 var ezMQ = {
   "ezobj":[
   
+  
+    // ========== C 14 ==========
+	
+    {
+	  'index'		: 68,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "(Paul) Hawken's perspective: &ldquo;Imagine 50,000 people in Copenhagen exchanging antennae and notes and cards and contacts and ideas and so forth and then spreading back all over the world to 192 countries. Energy and climate is a system; this is a systemic problem. That means everything we're doing is part of the healing of the system and that there is no Archimedean point in the system where we're either failing or, if we pull harder, we're going to succeed.&rdquo;",
+	  'quotes'		: true,
+	  'select'		: "Imagine 50,000 people",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 14',
+	  'caption'		: setupCaption
+    },	
+	
+    {
+	  'index'		: 67,
+	  'title'		: '',
+	  'idea_size'	: '110',
+	  'idea'		: "&ldquo;It takes a panoramic attention to appreciate system-level interactions,&rdquo; says Richard Davidson. &ldquo;You need to be attentionally flexible, so you can expand and contract your focus, like a zoom lens, to see elements big and small.&rdquo; Why not teach children these basic skills in reading systems?",
+	  'quotes'		: true,
+	  'select'		: "Like a zoom lens",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 14',
+	  'caption'		: setupCaption
+    },
+	
+    {
+	  'index'		: 66,
+	  'title'		: '',
+	  'idea_size'	: '115',
+	  'idea'		: "&ldquo;For long-term change you need sustained action,&rdquo; (Elke) Weber added. &ldquo;A positive message says, &lsquo;Here are better actions to take and with this metric you can see the good you're doing&mdash;as you keep going, you can continually feel better about how you are doing.&rsquo; That's the beauty of handprints (handprinter.org).&rdquo;",
+	  'quotes'		: true,
+	  'select'		: "Long-term change",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 14',
+	  'caption'		: setupCaption
+    },
+	
+    {
+	  'index'		: 65,
+	  'title'		: '',
+	  'idea_size'	: '109',
+	  'idea'		: "Handprints put the negatives (our footprint) in the background and positives in the foreground. When we are motivated by positive emotions, what we do feels more meaningful and the urge to act last longer. It all stays longer in attention. In contrast, fear of global warming's impacts may get our attention quickly, but once we do one thing and feel a little better, we think we're done.",
+	  'quotes'		: true,
+	  'select'		: "Handprints",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 14',
+	  'caption'		: setupCaption
+    },
+	
+    {
+	  'index'		: 64,
+	  'title'		: '',
+	  'idea_size'	: '135',
+	  'idea'		: "We live within extremely complex systems, but engage them lacking the cognitive capacity to understand or manage them completely.",
+	  'quotes'		: true,
+	  'select'		: "Extremely complex systems",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 14',
+	  'caption'		: setupCaption
+    },
+		
+	
+    {
+	  'index'		: 63,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "Knowing where to focus in a system makes all the difference. Take the biggest mess facing our species: our slow-motion mass suicide as human systems degrade the global systems that support life on the planet. We can begin to get a more fine-tuned handle on this degradation by applying life cycle analysis (LCA) to the products and processes that cause it.",
+	  'quotes'		: true,
+	  'select'		: "Life cycle analysis (LCA)",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 14',
+	  'caption'		: setupCaption
+    },
+	
+    {
+	  'index'		: 62,
+	  'title'		: '',
+	  'idea_size'	: '108',
+	  'idea'		: "While we are equipped with razor-sharp focus on smiles and frowns, growls and babies, as we've seen, we have zero neural radar for the threats to the global systems that support human life. They are too macro or micro for us to notice directly. So when we are faced with news of these global threats, our attention circuits tend to shrug.",
+	  'quotes'		: true,
+	  'select'		: "Threats to the gloabl systems",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 14',
+	  'caption'		: setupCaption
+    }, 	
+	
+    {
+	  'index'		: 61,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "As the Indian yogi Neem Karoli Baba once told me, &ldquo;You can plan for a hundred years, but you don't know what will happen the next moment.&rdquo;<br><br>On the other hand, cyberpunk author William Gibson observes, &ldquo;The future is already here. It's just not evenly distributed.&rdquo;<br><br>What we can know of the future lies somewhere between the two views: we have glimmerings, and yet there's always the potential of a black-swan event that could wash it all away.",
+	  'quotes'		: true,
+	  'select'		: "A black-swan event",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 14',
+	  'caption'		: setupCaption
+    },   
+  
+    // ========== C 13 ==========
+	
+    {
+	  'index'		: 60,
+	  'title'		: '',
+	  'idea_size'	: '110',
+	  'idea'		: "At one time, the survival of human groups depended on ecological attunement. Today we have the luxury of living well using artificial aids. Or seem to have the luxury. For the same attitudes that have made us reliant on technology have lulled us into indifference to the state of the natural world&mdash;at our peril.",
+	  'quotes'		: true,
+	  'select'		: "The luxury of living well",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 13',
+	  'caption'		: setupCaption
+    }, 	
+	
+    {
+	  'index'		: 59,
+	  'title'		: '',
+	  'idea_size'	: '115',
+	  'idea'		: "We think we are held up because of that traffic jam, but the jam itself emerges from the dynamics of highway systems. The disconnect between such systems and how we relate to them begins with distortions in our mental models. We blame those other drivers clogging the road but fail to take into account the system dynamics that put them there.",
+	  'quotes'		: true,
+	  'select'		: "Traffic jam",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 13',
+	  'caption'		: setupCaption
+    }, 	
+	
+    {
+	  'index'		: 58,
+	  'title'		: '',
+	  'idea_size'	: '125',
+	  'idea'		: "Solving such problems takes seeing the systems that are in play. &ldquo;We look for a systemic problem that no one player can solve&mdash;not a person, a government, a company,&ldquo; (Jib) Ellison tells me. The first breakthrough in the magazine dilemma was simply getting all these players together&mdash;and getting the system into the room.",
+	  'quotes'		: true,
+	  'select'		: "Systems awareness",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 13',
+	  'caption'		: setupCaption
+    },  	
+  
+                {
+	  'index'		: 57,
+	  'title'		: '',
+	  'idea_size'	: '120',
+	  'idea'		: "Through human history, systems awareness&mdash;detecting and mapping the patterns and order that lie hidden within the chaos of the natural world&mdash;has been propelled by this urgent survival imperative for native peoples to understand their local ecosystem.",
+	  'quotes'		: true,
+	  'select'		: "Systems awareness",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 13',
+	  'caption'		: setupCaption
+    },  
+	
+	
+	// ========== C 12 ==========
+  
                 {
 	  'index'		: 56,
 	  'title'		: '',
