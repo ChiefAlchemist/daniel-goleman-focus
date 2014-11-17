@@ -20,6 +20,80 @@
 var ezMQ = {
   "ezobj":[
   
+    // ========== C 15 ==========
+	
+    {
+	  'index'		: 74,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "A focus on our strength, Richard Boyatzis argues, urges us towards a desired future and stimulates openness to new ideas, people, and plans. In contrast, spotlighting our weaknesses elicits a defensive sense of obligation and guilt, closing us down.<br><br>&ldquo;You need the negative focus to survive, but a positive one to thrive,&rdquo; says Boyatzis. &ldquo;You need both, but in the right ratio.&rdquo;",
+	  'quotes'		: true,
+	  'select'		: "A focus on our strength",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 15',
+	  'caption'		: setupCaption
+    },	
+	
+    {
+	  'index'		: 73,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "Positive emotions widen our span of attention: we're free to take it all in. Indeed, in the grip of positivity, our perceptions shift. As psychologist Barbara Fredrickson, who studies positive feelings and their effects, puts it, when we're feeling good our awareness expands from our usual self-centered focus on &ldquo;me&rdquo; to a more inclusive and warm focus on &ldquo;we.&rdquo;",
+	  'quotes'		: true,
+	  'select'		: "In the grip of positivity",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 15',
+	  'caption'		: setupCaption
+    },		
+	
+    {
+	  'index'		: 72,
+	  'title'		: '',
+	  'idea_size'	: '110',
+	  'idea'		: "So the universal instructions are these: when your mind wanders&mdash;and you notice that it has wandered&mdash;bring it back to your point of focus and sustain your attention there. And when your mind wanders off again, do the same. And again. And again. And again.",
+	  'quotes'		: true,
+	  'select'		: "When your mind wanders",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 15',
+	  'caption'		: setupCaption
+    },	
+	
+    {
+	  'index'		: 71,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "&ldquo;The expert performer,&rdquo; says Anders Ericsson, &ldquo;actively counteracts such tendencies toward automaticity by deliberately constructing and seeking out training in which the set goal exceeds their current level of performance.&rdquo; Moreover, &ldquo;The more time expert performers are able to invest in deliberate practice with full concentration, the further developed and refined their performance.&rdquo;",
+	  'quotes'		: true,
+	  'select'		: "The expert performer",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 15',
+	  'caption'		: setupCaption
+    },
+	
+    {
+	  'index'		: 70,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "Smart practice always includes a feedback loop that lets you recognize errors and correct them&mdash;which is why dancers use mirrors. Ideally that feedback comes from someone with an expert eye&mdash;and so every world-class sports champion has a coach. If you practice without such feedback, you don't get to the top ranks.<br><br>The feedback matters and the concentration does, too&mdash;not just the hours.",
+	  'quotes'		: true,
+	  'select'		: "Smart practice",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 15',
+	  'caption'		: setupCaption
+    },
+	
+    {
+	  'index'		: 69,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "The &ldquo;10,00-hour rule...&rdquo;<br><br>The problem is: it's only half true.<br><br>If you are a duffer at golf, say, and make the same mistakes every time you try a certain swing or putt, 10,000 hours of practicing that error will not improve your game. You'll still be a duffer, albeit an older one.",
+	  'quotes'		: true,
+	  'select'		: "The 10,000-hour rule",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 15',
+	  'caption'		: setupCaption
+    },	
+  
   
     // ========== C 14 ==========
 	
