@@ -20,6 +20,81 @@
 var ezMQ = {
   "ezobj":[
   
+    // ========== C 16 ==========
+	
+	
+    {
+	  'index'		: 80,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "Stanford's Institute of Design offers a graduate course called &ldquo;Designing Calm.&rdquo; As one of the teachers, Gus Tai, says, &ldquo;A lot of Silicon Valley tech is oriented toward distracting. But with calming tech, we're asking how we can bring more balance to the world.&rdquo;",
+	  'quotes'		: true,
+	  'select'		: "Designing Calm",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 16',
+	  'caption'		: setupCaption
+    },
+
+    {
+	  'index'		: 79,
+	  'title'		: '',
+	  'idea_size'	: '110',
+	  'idea'		: "Tenacity strengthens selective attention, &ldquo;the building block for all other kinds of learning,&rdquo; Davidson added. &ldquo;The self-regulation of attention lets you focus on explicit goals and resist distraction,&rdquo; a key to success in any domain.",
+	  'quotes'		: true,
+	  'select'		: "A key to success in any domain",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 16',
+	  'caption'		: setupCaption
+    },
+	
+    {
+	  'index'		: 78,
+	  'title'		: '',
+	  'idea_size'	: '96',
+	  'idea'		: "The brain learns and remembers best when focus is greatest.<br><br>Michael Posner's group proposes that attention training should be part of the education of every child, giving a boost in learning across the board.",
+	  'quotes'		: true,
+	  'select'		: "A boost in learning",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 16',
+	  'caption'		: setupCaption
+    },
+	
+    {
+	  'index'		: 77,
+	  'title'		: '',
+	  'idea_size'	: '90',
+	  'idea'		: "The recent generations raised on games and otherwise glued to video screens, one neuroscientist told me, amount to an unprecedented experiment: &ldquo;a massive difference in how their brains are plastically engaged in life&rdquo; compared with previous generations. The long-term question is what such games will do to their neural wiring, and so to the social fabric&mdash;and how this might either develop new strengths or warp healthy development.",
+	  'quotes'		: true,
+	  'select'		: "An unprecedented experiment",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 16',
+	  'caption'		: setupCaption
+    },
+	
+    {
+	  'index'		: 76,
+	  'title'		: '',
+	  'idea_size'	: '120',
+	  'idea'		: "Fast-paced games, some experts argue, might acclimate some children to a stimulation rate quite unlike that in the classroom, a formula for even more than usual school boredom.",
+	  'quotes'		: true,
+	  'select'		: "Fast-paced games",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 16',
+	  'caption'		: setupCaption
+    },	
+	
+    {
+	  'index'		: 75,
+	  'title'		: '',
+	  'idea_size'	: '110',
+	  'idea'		: "&ldquo;Neurons that fire together wire together,&rdquo; as psychologist Donald Hebb neatly put it back in the 1940s. The brain is platic, constantly resculpting its circuitry as we go through our day. Whatever we are doing, as we do it our brain strengthens some circuits and not others.",
+	  'quotes'		: true,
+	  'select'		: "The brain is platic",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 16',
+	  'caption'		: setupCaption
+    },	
+  
     // ========== C 15 ==========
 	
     {
