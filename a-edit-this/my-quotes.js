@@ -20,8 +20,117 @@
 var ezMQ = {
   "ezobj":[
   
-    // ========== C 16 ==========
+    // ========== C 17 ==========
+
+	    {
+	  'index'		: 89,
+	  'title'		: '',
+	  'idea_size'	: '105',
+	  'idea'		: "Former Medtronic CEO Bill George agrees. &ldquo;Today's leaders are besieged. They're scheduled every fifteen minutes throughout the day, with thousands of interruptions and distractions. You need to find some quiet time in your day just to reflect.&rdquo;",
+	  'quotes'		: true,
+	  'select'		: "Today's leaders",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 17',
+	  'caption'		: setupCaption
+    },
 	
+    {
+	  'index'		: 88,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "Mindfulness lets us break the stream of thoughts that might otherwise lead to wallowing in misery, by changing our relationship to thought itself. Instead of being swept away by that stream we can pause and see that these are just thoughts&mdash;and choose whether or not to act on them.<br><br>In short, mindfulness practice strengthens focus, particularly executive control, working memory capacity, and the ability to sustain attention.",
+	  'quotes'		: true,
+	  'select'		: "These are just thoughts",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 17',
+	  'caption'		: setupCaption
+    },
+	
+    {
+	  'index'		: 87,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "Enhanced executive function widens the gap between impulse and action, in part by building meta-awareness, the capacity to observe our mental processes rather than just be swept away from them. This creates decision points we did not have before: we can squelch troublesome impulses that we usually would act on.",
+	  'quotes'		: true,
+	  'select'		: "Enhanced executive function",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 17',
+	  'caption'		: setupCaption
+    },
+	
+    {
+	  'index'		: 86,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "One of the bigger benefits for students is in understanding. Wandering minds punch holes in comprehension. The antidote for mind wandering is meta-awareness, attention to attention itself, as in the ability to notice that you are not noticing what your should, and correcting your focus. Mindfulness makes this crucial attention muscle stronger.",
+	  'quotes'		: true,
+	  'select'		: "Meta-awareness",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 17',
+	  'caption'		: setupCaption
+    },
+	
+    {
+	  'index'		: 85,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "&ldquo;Mindfullness,&rdquo; Richard Davidson said, &ldquo;boosts the classic attention network in the brain's fronto-parietal system that works together to allocate attention...<br><br>This lets us focus on what's important rather than be distracted by what's going on around us&mdash;you can keep your focus on the meaning of these words instead of having it pulled away by, say, checking this endnote.&rdquo; This is the essence of cognitive control.",
+	  'quotes'		: true,
+	  'select'		: "Mindfullness",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 17',
+	  'caption'		: setupCaption
+    },
+
+    {
+	  'index'		: 84,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "By teaching kids the skills that help them calm down and focus, &ldquo;we lay a foundation of self-awareness and self-management on which you can scaffold the other SEL skills like active listening, identifying feelings, and so on.&rdquo;",
+	  'quotes'		: true,
+	  'select'		: "Calm down and focus",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 17',
+	  'caption'		: setupCaption
+    },	
+	
+    {
+	  'index'		: 83,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "Deliberate, top-down attention holds a key to self-management...<br><br>Kids who can't pay attention can't learn; they also can't manage themselves well.",
+	  'quotes'		: true,
+	  'select'		: "Attention holds a key",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 17',
+	  'caption'		: setupCaption
+    },	
+	
+    {
+	  'index'		: 82,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "Perhaps no mental skill&mdash;as the New Zealand study found&mdash;matters as much in life success as executive control. Kids who can ignore impulse, filter out what's irrelevant, and stay focused on a goal fare best in life. There's an education app for that. It's called &ldquo;social and emotional learning,&rdquo; or SEL.",
+	  'quotes'		: true,
+	  'select'		: "Social and emotional learning",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 17',
+	  'caption'		: setupCaption
+    },
+	
+    {
+	  'index'		: 81,
+	  'title'		: '',
+	  'idea_size'	: '105',
+	  'idea'		: "For example, say Eileen Reiter, &rdquo;Instead of using time&mdash;outs, we teach kids to take &lsquo;time-ins,&rsquo; to manage their feelings,&ldquo; part of an emphasis on teaching the students to self-regulate rather than relying on punishments and rewards. And when children do have problems she adds, &ldquo;We'll ask them what they could do differently next time.&rdquo;",
+	  'quotes'		: true,
+	  'select'		: "Time-ins",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 17',
+	  'caption'		: setupCaption
+    },  
+  
+    // ========== C 16 ==========
 	
     {
 	  'index'		: 80,
