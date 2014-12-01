@@ -20,6 +20,105 @@
 var ezMQ = {
   "ezobj":[
   
+  
+    // ========== C 18 ==========
+	
+	
+		    {
+	  'index'		: 97,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "What keeps people from making this small neural effort? For one, mental overload, stress, and sleep deprivation (not to mention drinking) deplete the executive circuitry needed to make such a cognitive switch, keeping us in our mental ruts. And the stress of overload, sleeplessness, and turning to substances that calm you down are all too prevalent among those in high-demand jobs.",
+	  'quotes'		: true,
+	  'select'		: "Mental overload",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 18',
+	  'caption'		: setupCaption
+    },
+	
+		    {
+	  'index'		: 96,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "Those who exploit can find a safer path to profits, while those who explore can potentially find far greater success in the next new thing&mdash;though the risks of failure are greater, and the horizon of payback is further away. Exploitation is the tortoise, exploration the hare.",
+	  'quotes'		: true,
+	  'select'		: "Exploration the hare",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 18',
+	  'caption'		: setupCaption
+    },
+	
+		    {
+	  'index'		: 95,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "As Clay Shirky observes of the failure to disengage focus from comfort zones, &ldquo;First the people running the old system don't notice the change. When they do, they assume it's minor. Then it's a niche, then a fad. And by the time they understand that the world has actually changed, they've squandered most of the time they had to adapt.&rdquo;",
+	  'quotes'		: true,
+	  'select'		: "People running the old system",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 18',
+	  'caption'		: setupCaption
+    },
+	
+		    {
+	  'index'		: 94,
+	  'title'		: '',
+	  'idea_size'	: '115',
+	  'idea'		: "The best leaders have systems awareness, helping them answer the constant query, Where should we head and how?",
+	  'quotes'		: true,
+	  'select'		: "The best leaders",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 18',
+	  'caption'		: setupCaption
+    },
+
+		    {
+	  'index'		: 93,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "Apple and Singer left fresh footprints in the snow that their competitors followed in a desperate game of catching up. Today a mini-industry of consultants stand ready to guide companies through a standard playbook of strategic choices. But those off-the-shelf strategies fine-tune an organization's tactics&mdash;they don't change the game.",
+	  'quotes'		: true,
+	  'select'		: "Change the game",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 18',
+	  'caption'		: setupCaption
+    },
+		    {
+	  'index'		: 92,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "Leadership itself hinges on effective capturing and directing the collective attention. Leading attention requires these elements: first, focusing your own attention, then attracting and directing attention from others, and getting and keeping the attention of employees and peers, of customers or clients.",
+	  'quotes'		: true,
+	  'select'		: "Leading attention requires",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 18',
+	  'caption'		: setupCaption
+    },
+	
+		    {
+	  'index'		: 91,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "Attention in organizations, as with individuals, has a limited capacity...<br><br>Signs of what might be called organizational &ldquo;attention deficit disorder&rdquo; include making flawed decisions because of missing data, no time for reflection, trouble getting attention in the marketplace, and inability to focus when and where it matters.",
+	  'quotes'		: true,
+	  'select'		: "Attention in organizations",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 18',
+	  'caption'		: setupCaption
+    },
+	
+	    {
+	  'index'		: 90,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "Directing attention toward where it needs to go is a primal task of leadership. Talent here lies in the ability to shift attention to the right place at the right time, sensing trends and emerging realities and seizing opportunities. But it's not just the focus of a single strategic decision-maker that makes or breaks a company: it's the entire array of attention bandwidth and dexterity among everyone.",
+	  'quotes'		: true,
+	  'select'		: "Primal task of leadership",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 18',
+	  'caption'		: setupCaption
+    },
+  
     // ========== C 17 ==========
 
 	    {
