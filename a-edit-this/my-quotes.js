@@ -20,6 +20,66 @@
 var ezMQ = {
   "ezobj":[
   
+   // ========== C 21 ==========
+ 
+		    {
+	  'index'		: 117,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "The largest lens for our focus encompasses global systems; considers the needs of everyone, including the powerless and poor; and peers far ahead in time. No matter what we are doing or what decisions we are making, the Dalai Lama suggest these self-queries for checking our motivation:<br><br>Is it just for me, or for others?<br>For the benefit of the few, or the many?<br>For now, or for the future?",
+	  'quotes'		: true,
+	  'select'		: "For now, or for the future?",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 21',
+	  'caption'		: setupCaption
+    },
+	
+		    {
+	  'index'		: 116,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "&ldquo;We have the capacity to think several centuries into the future,&rdquo; the Dalai Lama said, adding, &ldquo;Start the task even it will not be fulfilled within your lifetime. This generation has a responsibility to reshape the world. If we make an effort, it may be possible to achieve. Even if it seems hopeless now never give up. Offer a positive vision, with enthusiasm and joy, and an optimistic outlook.&ldquo;",
+	  'quotes'		: true,
+	  'select'		: "The Dalai Lama said",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 21',
+	  'caption'		: setupCaption
+    },   
+		    {
+	  'index'		: 115,
+	  'title'		: '',
+	  'idea_size'	: '110',
+	  'idea'		: "In the sense that leaders influence or guide people toward a shared goal, leadership is widely distributed. Whether within a family, on social media, or in an organization or society as a whole, we are all leaders in one way or another.",
+	  'quotes'		: true,
+	  'select'		: "We are all leaders",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 21',
+	  'caption'		: setupCaption
+    },	
+		    {
+	  'index'		: 114,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "While making money matters, of course, leaders with this enlarged aperture pay attention to how they make money, and so make choices differently. Their decisions operate by logic that does not reduce to simple profit/loss calculations&mdash;it goes beyond the language of economics. They balance financial return with the public good.",
+	  'quotes'		: true,
+	  'select'		: "How they make money",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 21',
+	  'caption'		: setupCaption
+    },
+	
+		    {
+	  'index'		: 113,
+	  'title'		: '',
+	  'idea_size'	: '105',
+	  'idea'		: "&ldquo;Politicians are in charge of our welfare,&rdquo; says (Elke) Weber. &ldquo;They need to know people will thank them later for a hard decision now. It's like raising teenagers&mdash;sometimes thankless in the short term, but rewarding in the long.&rdquo;",
+	  'quotes'		: true,
+	  'select'		: "It's like raising teenagers",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 21',
+	  'caption'		: setupCaption
+    },
+  
     // ========== C 20 ==========
 	
 		    {
