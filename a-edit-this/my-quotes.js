@@ -20,6 +20,191 @@
 var ezMQ = {
   "ezobj":[
   
+    // ========== C 20 ==========
+	
+		    {
+	  'index'		: 112,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "The collective act of self-awareness clears the air of emotional static. &ldquo;Our research,&rdquo; (Stephen) Wolf adds, &ldquo;shows that is one sign of a high-performing team. They make it easy to give time to bring up and explore team members negative feelings.&rdquo;<br><br>As with individuals, top teams excel in the triple focus.",
+	  'quotes'		: true,
+	  'select'		: "A high-performing team",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 20',
+	  'caption'		: setupCaption
+    },
+
+		    {
+	  'index'		: 111,
+	  'title'		: '',
+	  'idea_size'	: '130',
+	  'idea'		: "But systems awareness in the absence of self-awareness and empathy will not be sufficient for outstanding leadership.",
+	  'quotes'		: true,
+	  'select'		: "Self-awareness and empathy",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 20',
+	  'caption'		: setupCaption
+    },
+	
+		    {
+	  'index'		: 110,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "Emotional aperture, the ability to perceive such subtle cues in a group, operates a bit like a camera. We can zoom in to focus on one person's feelings, or zoom out to take in the collective&mdash;whether a classroom or a work group...<br><br>At work, collective emotions&mdash;sometimes called organizational climate&mdash; make a huge difference in, for example, customer service, absenteeism, and group performance in general.",
+	  'quotes'		: true,
+	  'select'		: "Emotional aperture",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 20',
+	  'caption'		: setupCaption
+    },	
+	
+		    {
+	  'index'		: 109,
+	  'title'		: '',
+	  'idea_size'	: '155',
+	  'idea'		: "Empathy is a way to differentiate us from our competitors. Listening is key.",
+	  'quotes'		: true,
+	  'select'		: "Listening is key",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 20',
+	  'caption'		: setupCaption
+    },
+	
+		    {
+	  'index'		: 108,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "The challenge for leaders goes beyond having strengths in all three kinds of focus. The key is finding balance, and using the right one at the right time. The well-focused leader balances the data streams each offers, weaving these strands into seamless action. Putting together data on attention with that on emotional intelligence and performance, this triple focus emerges as a hitting driver of excellence.",
+	  'quotes'		: true,
+	  'select'		: "The key is finding balance",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 20',
+	  'caption'		: setupCaption
+    },
+	
+		    {
+	  'index'		: 107,
+	  'title'		: '',
+	  'idea_size'	: '95',
+	  'idea'		: "Empathy in its many forms, from simple listening to reading the paths of influence in an organization, shows up more often in leadership competence studies. Most of the competencies for high-performing leaders fall into a more visible category that builds on empathy: relationship strengths like influence and persuasion, teamwork and cooperation, and the like. But these most visible leadership abilities build not just on empathy, but also on managing ourselves and sensing how what we do affects others.",
+	  'quotes'		: true,
+	  'select'		: "Empathy in its many forms",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 20',
+	  'caption'		: setupCaption
+    },
+	
+		    {
+	  'index'		: 106,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "There's a floor effect for IQ when everyone in the group is at the same high level.<br><br>(David) McClelland argued that once you were in a given job, specific competencies like self-discipline, empathy, and persuasion were far stronger forces in success than a person's ranking in academics.",
+	  'quotes'		: true,
+	  'select'		: "A floor effect for IQ",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 20',
+	  'caption'		: setupCaption
+    },
+	
+	
+	// ========== C 19 ==========
+	
+		    {
+	  'index'		: 105,
+	  'title'		: '',
+	  'idea_size'	: '115',
+	  'idea'		: "When we're fixated on a goal, whatever is relevant to that point of focus gets priority. Focus is not just selecting the right thing, but also saying no to the wrong ones. But focus goes too far when it says no to the right things, too.",
+	  'quotes'		: true,
+	  'select'		: "Focus goes too far when",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 19',
+	  'caption'		: setupCaption
+    },
+	
+		    {
+	  'index'		: 104,
+	  'title'		: '',
+	  'idea_size'	: '85',
+	  'idea'		: "Every organization needs people with a keen focus on goals that matter, the talent to continually learn how to do even better, and the ability to tune out distractions. Innovation, productivity, and growth depend on such high-performers.<br><br>But only to a point. Ambitious revenue targets or growth goals are not the only gauge of an organization's health&mdash;and if they are achieved at a cost to other basics, the long-term downsides, like losing star employees, can outweigh short-term success if those costs lead to later failures.",
+	  'quotes'		: true,
+	  'select'		: "An organization's health",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 19',
+	  'caption'		: setupCaption
+    },
+	
+		    {
+	  'index'		: 103,
+	  'title'		: '',
+	  'idea_size'	: '85',
+	  'idea'		: "Take empathy. The common cold of leadership is poor listening. Here is how one CEO candidly assessed his own trouble with this form of empathy: &ldquo;My brain races too much, so even if I've listened to everything everybody said, unless you show that you digested it, people don't think they are being well heard. Sometimes you really don't hear because you're racing. And so, if you really want to get the best out of people, you have to really hear them and they have to feel like they've been really heard. So I've got to learn to slow down and improve in that dimension, both to make me better and to make the people around me better.&rdquo;",
+	  'quotes'		: true,
+	  'select'		: "The common cold of leadership",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 19',
+	  'caption'		: setupCaption
+    },
+	
+		    {
+	  'index'		: 102,
+	  'title'		: '',
+	  'idea_size'	: '105',
+	  'idea'		: "Leaders who inspire can articulate shared values that resonate with and motivate the group. These are the leaders people love to work with, who surface the vision that moves everyone. But to speak from the heart, to the heart, a leader must first know her values. That takes self-awareness.",
+	  'quotes'		: true,
+	  'select'		: "Leaders who inspire",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 19',
+	  'caption'		: setupCaption
+    },
+	
+		    {
+	  'index'		: 101,
+	  'title'		: '',
+	  'idea_size'	: '125',
+	  'idea'		: "There's a strong case that leaders need the full range of inner, other, and outer focus to excel&mdash;and that a weakness in any one of them can throw a leader off-balance.",
+	  'quotes'		: true,
+	  'select'		: "A leader off-balance",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 19',
+	  'caption'		: setupCaption
+    },
+
+		    {
+	  'index'		: 100,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "The sweet spot for smart decisions, then, comes not just from being a domain expert, but also from having high self-awareness. If you know yourself as well as your business, then you can be shrewder in interpreting the facts (while, hopefully, safeguarding against the inner distortions that can blur your lines).",
+	  'quotes'		: true,
+	  'select'		: "High self-awareness",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 19',
+	  'caption'		: setupCaption
+    },
+	
+		    {
+	  'index'		: 99,
+	  'title'		: '',
+	  'idea_size'	: '115',
+	  'idea'		: "The most successful entrepreneurs gather data that might be relevant to a key decision far more widely&mdash;and from a larger variety of sources&mdash;than most people would think relevant. But they also realize that when facing a major decision got feelings are data too.",
+	  'quotes'		: true,
+	  'select'		: "Most successful entrepreneurs",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 19',
+	  'caption'		: setupCaption
+    },
+	
+		    {
+	  'index'		: 98,
+	  'title'		: '',
+	  'idea_size'	: '100',
+	  'idea'		: "&ldquo;People bring investment opportunities to me all the time,&rdquo; says (Steve) Tuttleman. &ldquo;They give me a book that details the numbers for a company that's on the market. But I've got to weigh that in a broader context of what's happening in society, the culture, and the economy. I\'m always scanning for what's happening in the broader world; you need a bigger field of view.&rdquo;",
+	  'quotes'		: true,
+	  'select'		: "A bigger field of view",
+	  'who'			: 'Daniel Goleman',
+	  'note'		: 'Focus - Chapter 19',
+	  'caption'		: setupCaption
+    },
+  
   
     // ========== C 18 ==========
 	
